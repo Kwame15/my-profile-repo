@@ -1,3 +1,4 @@
 My name is Ebenezer Boateng.
 I'm learning Git and GitHub.
 I understand how to push, pull, and clone repositories.
+New line added to the previous three lines.
